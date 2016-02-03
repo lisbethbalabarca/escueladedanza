@@ -1,0 +1,56 @@
+*{
+	position: relative;
+}
+.primera{
+	height: 700px;
+}
+.uno{
+	height: 150px;
+	width: 900px;
+	margin: auto;
+	margin-bottom: 25px;
+	background-color: #DAD7D7;
+	overflow: hidden;
+}
+.uno img{
+	width: 220px;
+	height: auto;	
+	float: left;
+	margin-right: 20px;
+}
+.uno .img2{
+	width: 220px;
+	height: 200px;
+	float: left;
+}
+button{
+	width: 280px;
+	height: 30px;
+	background-color: #192951;
+	border: none;
+	top: 10px;
+	border-radius: 5%;
+	text-align: center;
+}
+button p{
+	color: white;
+}
+.uno h1{
+	font-size: 14px;
+	top: 5px;
+}
+.uno .text-gray{
+	font-size: 12px;
+	font-style: italic;
+	top: 10px;
+}
+.uno .textillo{
+	font-size: 12px;
+	top: 10px;
+}
+.titulo2{
+	font-size: 24px;
+	padding: 20px;
+	font-weight: bolder;
+	margin-bottom: 25px;
+}

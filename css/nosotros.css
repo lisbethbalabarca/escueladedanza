@@ -1,0 +1,153 @@
+*{
+	position: relative;
+}
+.dance{
+	height: 400px;
+	background: url("../img/dance_7.jpg");
+	background-position: 0 -120px;
+	background-size: 1790px;
+}
+.nosotros{
+	width: 500px;
+	height: 200px;
+	background-color: rgba(0, 0, 0, 0.4);
+	text-align: center;
+	top: 120px;
+	left: -250px;
+}
+.nosotros p{
+	font-size: 14px;
+	top: 35px;
+}
+.nosotros h1{
+	top: 15px;
+}
+.pilar, .cuarta{
+	height: 250px;
+	background: url("../img/cubes.png");
+	background-size: 50px;
+}
+.col-12 .col-4 h1,p{
+	color: #ABABAE;
+}
+.pilar .col-4{
+	width: 250px;
+	text-align: center;
+	left: 280px;
+	top: 20px;
+}
+.col-4 h1{
+	font-size: 28px;
+	padding: 15px;
+	color: #ABABAE;
+}
+.col-4 p{
+	font-size: 14px;
+	padding: 15px;
+}
+.tercera{
+	height: 680px;
+	background-color: white;
+	padding: 0;
+}
+.uno{
+	overflow: hidden;
+}
+.uno img{
+	width: 220px;
+	height: auto;
+}
+.texto{
+	top: -50px;
+	background-color: white;
+}
+.texto1{
+	height: 140px;
+	top: -140px;
+	background-color: white;
+}
+.dos{
+	overflow: hidden;
+	top: -160px;
+	height: 280px;
+}
+.dos img{
+	width: 220px;
+	height: auto;
+}
+.texto2{
+	top: -70px;
+	background-color: white;
+	height: 100px;
+}
+.tres{
+	overflow: hidden;
+	top: -135px;
+}
+.tres img{
+	width: 220px;
+	height: auto;
+}
+.texto3{
+	background-color: white;
+	height: 100px;
+}
+.texto5{
+	top: -10px;
+	background-color: white;
+}
+.cuatro{
+	overflow: hidden;
+	top: 20px;
+}
+.cuatro img{
+	width: 220px;
+	height: auto;
+}
+.texto6{
+	background-color: white;
+}
+.texto,.texto1,.texto2,.texto3,.texto5,.texto6{
+	width: 220px 	 	
+}
+.col-3 h1{
+	font-size: 20px;
+	padding: 10px 10px 10px 0px;
+}
+.cinco{
+	overflow: hidden;
+	top: -19px;
+}
+.cinco img{
+	width: 220px;
+	height: auto;
+}
+.texto7{
+	background-color: white;
+	top: -125px;
+	height: 126px;
+	width: 220px;
+}
+.tercera .col-3{
+	padding: 0;
+	width: 250px;
+	height: 550px;
+}
+.tercera .col-12{
+	left: 150px;
+	width: auto;
+	height: 550px;
+}
+.titulo{
+	font-size: 30px;
+	padding: 30px;
+	text-align: center;
+	color: black;
+	font-weight: bolder;
+}
+.frase{
+	font-style:italic;
+	font-size: 40px;
+	color: black;
+	padding: 90px;
+}

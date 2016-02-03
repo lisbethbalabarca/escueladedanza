@@ -1,0 +1,111 @@
+header{
+	height: 130px;
+	text-align: center;
+	
+}
+header p{
+	color: #192951;
+	font-size: 28px;
+	top: 30px;
+	font-family: 'Montserrat', sans-serif;
+}
+header nav{
+	left: 340px;
+}
+nav{
+    width: 68%;
+}
+nav ul{
+    list-style:none;
+}
+nav ul li{
+ 	float:left;
+    font-size:16px;
+    text-align:center;
+}
+nav ul li a{
+ 	color:#9A9A9A;
+    display:block;
+    text-decoration:none;
+    padding: 20px;
+    margin: 30px;
+}
+nav li:hover a{
+	background:#192951;
+}
+.ultima{
+	height: 500px;
+	background: url("../img/shoes_!.jpg");
+	background-repeat: no-repeat;
+	background-position: 550px;
+}
+.contact{
+	color: #192951;
+	font-style: normal;
+	font-size: 30px;
+	font-weight: bold;
+	left: 50px;
+	top:70px;
+	width: 600px;
+}
+input{
+	border: none;
+}
+
+form p{
+	border: solid #DAD7D7 3px;
+	width: 500px;
+	top: 90px;
+	left: 80px;
+	margin-bottom: 5px;
+	height: 30px;
+}
+form i{
+	padding: 3px;
+	color: gray;
+}
+form .mensaje{
+	height: 200px;	
+}
+
+.enviar{
+	width: 400px;
+	height: 50px;
+	background-color:#192951;
+	font-size: 18px;
+	border: none;
+	top: 100px;
+	left: 130px;
+}
+.enviar a{
+	text-decoration: none;
+	color: white;
+}
+footer{
+	height: 60px;
+	background-color: #192951;
+}
+footer p{
+	font-style: normal;
+	font-size: 12px;
+	top:35px;
+	left: 20px;
+}
+textarea{
+	border: none;
+	width: 468px;
+	height: 194px;
+	left: 2px;
+}
+.mensaje i{
+	top: -175px;
+}
+.nombre input{
+	width: 470px;
+}
+.email input{
+	width: 470px;
+}
+.text-white{
+	width: 500px;
+}

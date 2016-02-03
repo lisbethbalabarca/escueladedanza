@@ -1,0 +1,57 @@
+*{
+	position: relative;
+}
+.uno{
+	height: 800px;
+}
+.title{
+	font-weight: bold;
+	padding: 20px;
+	left: -120px;
+	font-size: 28px;
+}
+.imagen{
+	height: 300px;
+	width: 250px;
+	overflow: hidden;
+}
+.uno .col-12{
+	left: 220px;
+	width: auto;
+	height: 330px;
+}
+.imagen img{
+	width: 250px;
+	height: auto;
+}
+.break{
+	top: -35px;
+}
+.ballet{
+	top: -10px;
+}
+.dance{
+	top: -40px;
+}
+.texto{
+	width: 200px;
+	height: 100px;
+	background-color: rgba(0, 0, 0, 0.6);
+	top: -210px;
+	text-align: center;
+	left: 28px;
+	color: white;
+}
+.texto p{
+	width: 200px;
+	font-size: 12px;
+	top: 15px;
+}
+.texto h1{
+	font-size: 14px;
+	top: 10px;
+}
+.dos{
+	top: -270px;
+}
+

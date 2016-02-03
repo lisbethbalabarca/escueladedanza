@@ -1,0 +1,252 @@
+*{
+	position: relative;
+}
+header{
+	height: 130px;
+	text-align: center;
+}
+header p{
+	color: #192951;
+	font-size: 28px;
+	top: 30px;
+	font-family: 'Montserrat', sans-serif;
+}
+header nav{
+	left: 320px;
+}
+nav{
+    width: 68%;
+}
+nav ul{
+    list-style:none;
+}
+nav ul li{
+ 	float:left;
+    font-size:16px;
+    text-align:center;
+}
+nav ul li a{
+ 	color:#9A9A9A;
+    display:block;
+    text-decoration:none;
+    padding: 20px;
+    margin: 30px;
+}
+nav li:hover a{
+	background:#192951;
+}
+.danza{
+	background-image:url("../img/dance_1.jpg");
+	height: 390px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.texto{
+	height: 300px;
+	width: 300px;
+	left: 80px;
+	top: 50px;
+}
+.titulo{
+	font-size: 60px;
+	color: #C3C6C5;
+	font-weight: bold;
+}
+.info{
+	font-size: 12px;
+	width: 180px;
+	color: white;
+	top: 10px;
+}
+.insc{
+	width: 100px;
+	height: 30px;
+	border-radius: 7%;
+	border: none;
+	background-color: #040E1D;
+	top: 40px;
+}
+.insc a{
+	text-decoration: none;
+	color: white;
+}
+.segunda{
+	height: 300px;
+	background:url("../img/textura_2.jpg");
+}
+.caja1{
+	text-align: center;
+}
+.caja1 p{
+	width: 650px;
+	font-size: 22px;
+	line-height: 150%;
+	top:70px;
+	left: 280px;
+}
+.caja1 img{
+	width: 140px;
+	top: 30px;
+	left: 105px;
+}
+.boton2{
+	width: 250px;
+	height: 50px;
+	background-color:#030E1C; 
+	border-radius: 8%;
+	left: -95px;
+	top: 20px;
+	border:none;
+}
+.boton2 a{
+	text-decoration: none;
+	color: white;
+}
+.tercera{
+	height: 300px;
+}
+.tercera .col-6{
+	padding: 0;
+	height: 300px;
+	background-size: cover;
+}
+.imagen1{
+	background: url("../img/instructor_4.jpg");
+	height: 300px;
+	background-size: cover;
+	border:solid 1px #030e1c;
+}
+.imagen2{
+	background: url("../img/profesor_9.jpg");
+	height: 300px;
+	background-size: cover;
+	border:solid 1px #030e1c;	
+}
+.boton3{
+	height: 70px;
+	width: 500px;
+	top: -70px;
+	left: 380px;
+	background-color: #192951;
+	border: none;
+}
+.boton3 a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+.cuarta{
+	height: 250px;
+	background:url("../img/textura_2.jpg");
+}
+.frase1 p{
+	width: 1000px;
+	text-align: center;
+	font-size: 40px;
+	left: 160px;
+	top: 30px;
+	padding: 50px;
+}
+.quinta{
+	background-color: #192951;
+	height: 380px;
+}
+.col-6 iframe{
+	top: 45px;
+}
+.ubicacion p{
+	font-style: normal;
+	width: 400px;
+	font-size: 13px;
+	color: white;
+	top: 50px;
+	left:30px;
+}
+.ubicacion ul li{
+	list-style: none;
+	font-style: normal;
+	color: white;
+	font-size: 15px;
+	line-height: 150%;
+	top: 80px;
+	left:30px;
+}
+.ubicacion ul li:first-child{
+	font-size: 18px;
+}
+.ultima{
+	height: 500px;
+	background: url("../img/shoes_!.jpg");
+	background-repeat: no-repeat;
+	background-position: 550px;
+}
+.contact{
+	color: #192951;
+	font-style: normal;
+	font-size: 30px;
+	font-weight: bold;
+	left: 50px;
+	top:70px;
+	width: 600px;
+}
+input{
+	border: none;
+}
+
+form p{
+	border: solid #DAD7D7 3px;
+	width: 500px;
+	top: 90px;
+	left: 80px;
+	margin-bottom: 5px;
+	height: 30px;
+}
+form i{
+	padding: 3px;
+	color: gray;
+}
+form .mensaje{
+	height: 200px;	
+}
+
+.enviar{
+	width: 400px;
+	height: 50px;
+	background-color:#192951;
+	font-size: 18px;
+	border: none;
+	top: 100px;
+	left: 130px;
+}
+.enviar a{
+	text-decoration: none;
+	color: white;
+}
+footer{
+	height: 60px;
+	background-color: #192951;
+}
+footer p{
+	font-style: normal;
+	font-size: 12px;
+	top:35px;
+	left: 20px;
+}
+textarea{
+	border: none;
+	width: 468px;
+	height: 194px;
+	left: 2px;
+}
+.mensaje i{
+	top: -175px;
+}
+.nombre input{
+	width: 470px;
+}
+.email input{
+	width: 470px;
+}
+.text-white{
+	width: 500px;
+}
